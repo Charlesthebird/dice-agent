@@ -1,0 +1,9 @@
+agentName: diceagent
+image: localhost:5001/diceagent:latest
+language: python
+framework: adk
+modelProvider: gemini
+modelName: gemini-2.0-flash
+description: ""
+telemetryEndpoint: http://104.196.122.224:4316
+updatedAt: 2026-01-23T21:00:39.716197-05:00
